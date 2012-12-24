@@ -3,6 +3,9 @@
 tl;dr - :Steam audio<Tab><CR>
         Launches Audiosurf (if you have it installed)
 
+Currently only supports Windows Steam, Linux support is coming relatively
+soon.
+
 ==============================================================================
 INTRODUCTION                                                             *Steam*
 
